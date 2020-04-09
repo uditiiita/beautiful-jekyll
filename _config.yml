@@ -90,9 +90,9 @@ social-network-links:
   stackoverflow: 1541873/udit-agarwal  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
   instagram: anomaly2104 # eg. daattali
-  youtube: channel/UditAgarwal21   # eg. user/daattali or channel/daattali
+  youtube: c/UditAgarwal21   # eg. user/daattali or channel/daattali
 #  spotify: yourname   # eg. daattali
-  telephone: +919411656264
+#  telephone: +919411656264
 
 # Select which share links to show in posts
 share-links-active:
