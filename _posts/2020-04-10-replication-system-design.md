@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Replication - System Design Core Concepts
-gh-badge: [star, fork, follow]
 tags: [System Design, Replication, SDI, System Design Core Concept, Fundamentals]
 comments: true
 categories: SystemDesign 
