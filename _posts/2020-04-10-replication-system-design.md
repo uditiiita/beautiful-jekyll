@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Replication
+title: Replication - System Design Core Concepts
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-categories: SystemDesign Replication SDI
+categories: SystemDesign Replication SDI SystemDesignCoreConcept
 ---
 
 ## What is Replication?
