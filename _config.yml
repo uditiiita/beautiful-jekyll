@@ -79,20 +79,21 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "hello@uditagarwal.com"
+
+  youtube: c/UditAgarwal21   # eg. user/daattali or channel/daattali
   facebook: anomaly2104  # eg. daattali
-  github: uanomaly2104    # eg. daattali
-  twitter: anomaly2104   # eg. daattali
-#  google-plus: +UditAgarwal   # eg. +DeanAttali or 109424658772469020925
   linkedin: anomaly2104  # eg. daattali
+  twitter: anomaly2104   # eg. daattali
+  instagram: anomaly2104 # eg. daattali
+  github: uanomaly2104    # eg. daattali
+#  google-plus: +UditAgarwal   # eg. +DeanAttali or 109424658772469020925
 #  xing: yourname      # eg. daattali
   stackoverflow: 1541873/udit-agarwal  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
-  instagram: anomaly2104 # eg. daattali
-  youtube: c/UditAgarwal21   # eg. user/daattali or channel/daattali
 #  spotify: yourname   # eg. daattali
 #  telephone: +919411656264
+  email: "hello@uditagarwal.com"
+  rss: true
 
 # Select which share links to show in posts
 share-links-active:
