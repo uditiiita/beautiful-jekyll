@@ -6,11 +6,11 @@ comments: true
 categories: Job
 ---
 
-I recently did few webinars (You can find webinars recordings here: https://www.youtube.com/playlist?list=PL564gOx0bCLqWIwofNw_9vZL_PKzRokS6)
+I recently did few webinars (You can find webinar recordings [here](https://www.youtube.com/playlist?list=PL564gOx0bCLqWIwofNw_9vZL_PKzRokS6))
 and I was asked so many questions from the attendees. Most of the questions were like very genuine
 and very very useful. Thus, I thought I should go through each one of them again from the chat history
-and collate them into summarized list.   
-Following are the final lists I came up with:
+and collate them into summarized list.  
+
 ***
 
 * Question specifically from college students:
