@@ -1,10 +1,10 @@
----           
+---
 layout: post
 title: Putting shadow around UILabel in iOS 7
-date: 2014-12-19 07:42:05 UTC
-updated: 2014-12-19 07:42:05 UTC
-comments: false
-categories: 
+date: '2013-10-10T07:42:00.004-07:00'
+author: Udit Agarwal
+tags: 
+modified_time: '2014-12-18T23:42:05.248-08:00'
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><div class="p1">Here, we will add blue shadow to a UILabel:</div><div class="p1"><br />&nbsp; &nbsp; UILabel *myLabel = [[UILabel alloc] init];</div><div class="p1">&nbsp; &nbsp; <span class="s1">UIColor</span> *color = [<span class="s1">UIColor</span> <span class="s2">blueColor</span>];<br /><br /></div><div class="p1">&nbsp; &nbsp;&nbsp;myLabel.<span class="s5">layer</span>.<span class="s5">shadowColor</span> = [color <span class="s2">CGColor</span>];</div><div class="p2"><span class="s6">&nbsp; &nbsp;&nbsp;</span><span class="s6">myLabel.</span>layer<span class="s6">.</span>shadowRadius<span class="s6"> = </span><span class="s7">5.0f</span><span class="s6">;</span></div><div class="p2"><span class="s6">&nbsp; &nbsp;&nbsp;</span><span class="s6">myLabel.</span>layer<span class="s6">.</span>shadowOpacity<span class="s6"> = </span><span class="s7">1</span><span class="s6">;</span></div><div class="p2"><span class="s6">&nbsp; &nbsp;&nbsp;</span><span class="s6">myLabel.</span>layer<span class="s6">.</span>shadowOffset<span class="s6"> = </span>CGSizeZero<span class="s6">;</span></div><br /><div class="p2"><span class="s6">&nbsp; &nbsp;&nbsp;</span><span class="s6">myLabel.</span>layer<span class="s6">.</span>masksToBounds<span class="s6"> = </span><span class="s3">NO</span><span class="s6">;</span></div></div>
