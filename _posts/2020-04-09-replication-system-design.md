@@ -25,6 +25,3 @@ Let's say there are server A and server B. Request to store data comes on server
 This whole process of copying data is called eventual consistency. Here your system is not fully consistent as we just saw. However, the benefit you are getting is really big. Your system has become available now. 
 Also, if you try to analyze the actual hit that you have to take, then you will realize that it is actually not that much. In eventual consistency, data gets replicated within a second which is fine for almost most of the systems that you build. 
 Though, if you still need consistency as well as availability, then still there are some solutions like quorums which will provide you both but then your latencies will increase a bit. 
-
-## How is it done?
-TBD
