@@ -79,10 +79,11 @@ Lecture 10:
 - Tips to excel in SDI. 
 - System design examples like netflix, etc
 
-###Tentative start date: 
+### Tentative start date: 
 First week of July 2020
 
-###Tentative fees: Rs. 7500 
+### Tentative fees: 
+Rs. 9999 (Free mock interview for first 5 signups.) 
 
 
 Extras if time remains in the lecture:
