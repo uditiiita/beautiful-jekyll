@@ -14,6 +14,7 @@ Lecture 2:
 	- Performance Vs Scalability
 	- Latency Vs Throughput
 	- Availability Vs Consistency(CAP Theorem)
+- Lab Session: Seeing scalability happening in real via live demo.
 
 Lecture 3:
 - Patterns of Enterprise Application Architecture
@@ -33,7 +34,6 @@ Lecture 4:
 	- Achieving Availability
 	- Strongly versus eventual consistent systems
 	- Quorums
-	- Load balancers
 	- Identify and fix availability problems with service we built in previous lecture.
 
 Lecture 5:
@@ -42,7 +42,6 @@ Lecture 5:
 	- Consistent Hashing
 	- Routing
 	- Identify and fix scalability problems with service we built in previous lecture.
-
 
 Lecture 6:
 - Components of a large scale system
@@ -53,14 +52,14 @@ Lecture 6:
 		- Build a scalable database like dynamodb
 		- Practical Examples of SQL/NoSQL database usages.
 
-
 Lecture 7:
 - Components of a large scale system
 	- Caching
 		- All about caching - Policies, usages etc.
 		- Practical examples to demonstrate use and helpfulness of cache
 	- CDNs
-
+	- Load balancers
+	- Live Demo
 
 Lecture 8:
 - Components of a large scale system
@@ -70,18 +69,20 @@ Lecture 8:
 		- Events Ordering
 		- Example system design using queues - Search Indexing, etc.
 
-
 Lecture 9:
 - Large data / Large QPS Systems
 	- Batch processing
 	- Stream processing
 	- Lab Session for batch processing using Dynamo, Queues and Lambdas
 
-
 Lecture 10:
 - Tips to excel in SDI. 
 - System design examples like netflix, etc
 
+###Tentative start date: 
+First week of July 2020
+
+###Tentative fees: Rs. 7500 
 
 
 Extras if time remains in the lecture:
