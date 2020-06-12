@@ -110,7 +110,7 @@ Lecture 10:
 First week of July 2020
 
 ### Tentative fees: 
-Rs. 9999 (One Free mock interview for first 5 registrations.) 
+Rs. 9999 
 * For first 5 signups: 20% early bird discount.
 * For next 5 signups: Free mock interview on system design.
   
