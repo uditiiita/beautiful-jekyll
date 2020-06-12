@@ -107,8 +107,9 @@ First week of July 2020
 Rs. 9999 (Free mock interview for first 5 registrations.) 
 
 ### Instructor profile:
-I am Udit Agarwal. I am Technology Enthusiast and currently working as a Software Engineer in Backend. I have been working in the industry for quite sometime now and I have most of my experience in designing and scaling Backend Systems. Have worked with companies like Microsoft, Adobe, Amazon, Directi. Each company gave me an opportunity to work on various types of high throughput systems like chat applications, e-commerce, cloud file systems, streaming systems etc. With every product, I faced different challenges which taught me how to design the right systems using different technologies for the given problem. I have a sound knowledge of Java, DynamoDB, SQL, Caching technologies like Redis, Queuing systems like SQS, Kafka, etc. I graduated from IIIT Allahabad in 2013.
+I am Udit Agarwal. I am Technology Enthusiast and currently working as a Software Engineer in Backend. I have been working in the industry for quite sometime now and I have most of my experience in designing and scaling Backend Systems. Have worked with companies like Microsoft, Adobe, Amazon, Directi. Each company gave me an opportunity to work on various types of high throughput systems like chat applications, e-commerce, cloud file systems, streaming systems etc. With every product, I faced different challenges which taught me how to design the right systems using different technologies for the given problem. I have a sound knowledge of Java, DynamoDB, SQL, Caching technologies like Redis, Queuing systems like SQS, Kafka, etc. I graduated from IIIT Allahabad in 2013.  
 LinkedIn Profile: https://www.linkedin.com/in/anomaly2104
+My YouTube Channel: https://www.youtube.com/c/UditAgarwal21
 
 
 
