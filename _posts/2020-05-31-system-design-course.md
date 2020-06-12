@@ -8,7 +8,7 @@ Thus, I designed this course so that you can perform well at system design inter
 * One of the most important goal of this course is that you should get lot of practical experience through lab sessions.
 
 ### Course Features
-* Small batch size (~25 - 30)
+* Small batch size.
 * Best in industry.
 * Exclusive course content.
 * Various case studies.
