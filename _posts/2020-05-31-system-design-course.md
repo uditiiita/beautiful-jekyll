@@ -113,6 +113,7 @@ First week of July 2020
 Rs. 9999 (One Free mock interview for first 5 registrations.) 
 * For first 5 signups: 20% early bird discount.
 * For next 5 signups: Free mock interview on system design.
+  
 (First 5 and next 5 will be decided as per the order or payments. So you will first make the payment and then if you come in first 5, then I will refund your 20% for first offer and for second offer, I will take your mock interview post completion of course.)
 
 ### Instructor profile:
