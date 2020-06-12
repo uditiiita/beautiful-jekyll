@@ -3,6 +3,14 @@ Almost every product based company has a System Design round in their interviews
 Most engineers struggle with the system design interview (SDI), partly because of their lack of experience in developing large-scale systems and partly because of the unstructured nature of SDIs.   
 Thus, I designed this course so that you can perform well at system design interviews.
 
+### Why you should enroll into this course?
+If you want to start learning coding today? How would you start?
+You will start learning DSA, start participating in coding contests, solve problems on sites like leetcode, codechef, codeforces etc right?  
+
+If I ask you the same question for system design like If you want to learn system design, how will you start?
+You would most probably not have a definite learning path for the same. This is because online world does not have enough content on system design. But almost every company ask system design questions in their interviews today.
+
+
 ### Goals
 * People should be able to design better systems during the interview.
 * One of the most important goal of this course is that you should get lot of practical experience through lab sessions.
@@ -15,7 +23,7 @@ Thus, I designed this course so that you can perform well at system design inter
 * Hands on Lab sessions using Azure/AWS.
 
 ### Fill this form if interested
-https://bit.ly/SDIPrepForm
+[https://bit.ly/SDIPrepForm](https://bit.ly/SDIPrepForm)
 
 ### Demo class
 I will be taking one demo class which will be completely free. You can show your interest in above form so that you get details about that free class.
@@ -118,9 +126,5 @@ Rs. 9999
 
 ### Instructor profile:
 I am Udit Agarwal. I am Technology Enthusiast and currently working as a Software Engineer in Backend. I have been working in the industry for quite sometime now and I have most of my experience in designing and scaling Backend Systems. Have worked with companies like Microsoft, Adobe, Amazon, Directi. Each company gave me an opportunity to work on various types of high throughput systems like chat applications, e-commerce, cloud file systems, streaming systems etc. With every product, I faced different challenges which taught me how to design the right systems using different technologies for the given problem. I have a sound knowledge of Java, DynamoDB, SQL, Caching technologies like Redis, Queuing systems like SQS, Kafka, etc. I graduated from IIIT Allahabad in 2013.  
-LinkedIn Profile: https://www.linkedin.com/in/anomaly2104  
-My YouTube Channel: https://www.youtube.com/c/UditAgarwal21
-
-
-
-
+LinkedIn Profile: [https://www.linkedin.com/in/anomaly2104](https://www.linkedin.com/in/anomaly2104)
+My YouTube Channel: [https://www.youtube.com/c/UditAgarwal21](https://www.youtube.com/c/UditAgarwal21)
