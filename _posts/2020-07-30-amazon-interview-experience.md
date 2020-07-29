@@ -1,3 +1,11 @@
+---
+layout: post
+title: Amazon Interview Experience
+tags: [Interview, Preparation, Placements, Job, Experience, Amazon]
+comments: true
+categories: Interview Experience
+---
+
 I recently gave interview in Amazon for the position of Software development engineer. The overall experience was pretty good, so I thought of sharing the experience with everyone.  
 
 ## Summary
