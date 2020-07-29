@@ -133,7 +133,7 @@ My YouTube Channel: [https://www.youtube.com/c/UditAgarwal21](https://www.youtub
 ### Payment details:
 Please send the amount to the following UPI. After sending the payment pleae send the screenshot of the transaction to hello@uditagarwal.com or message me the screenshot in slack workspace.
 UPI Details:
-![UPI Details Image](/img/upi.PNG)
+![UPI Details Image](/assets/img/upi.PNG)
 
 ### Tech Community:
 Nothing can beat a community if you are learning something. Communities even help you learn and also help others on a regular basis. To help all of us regularly discuss various problems like High level system design, Low level system design, coding, etc, I have created a community on slack which I myself will also be using to coordinate on this. So, to get more updates and interact with me real time, you should join this slack community.  
