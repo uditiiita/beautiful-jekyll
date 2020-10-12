@@ -25,9 +25,6 @@ You would most probably not have a definite learning path for the same. This is 
 ### Fill this form if interested
 [https://bit.ly/SDIPrepForm](https://bit.ly/SDIPrepForm)
 
-### Demo class
-I will be taking one demo class which will be completely free. You can show your interest in above form so that you get details about that free class.
-
 ### Course Structure
 
 Lecture 1:
