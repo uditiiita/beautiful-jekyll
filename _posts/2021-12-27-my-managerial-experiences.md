@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learnings from my managerial experiences
+title: My managerial experiences
 tags: [Management, Leadership, Experience, Team]
 comments: true
 categories: Learning

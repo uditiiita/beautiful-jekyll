@@ -22,4 +22,4 @@ I graduated from IIIT Allahabad in 2013.
 
 I am maintaining a channel on YouTube in which I create and post learning videos regularly. These videos are based on topics like system designing, distributed systems, data structures, etc.
 
-My Youtube System Design Channel link: [youtube.com/c/UditAgarwal21](https://youtube.com/c/UditAgarwal21?sub_confirmation=1)
+My Youtube System Design Channel link: [youtube.com/anomaly2104](https://youtube.com/anomaly2104?sub_confirmation=1)
