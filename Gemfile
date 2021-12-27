@@ -6,3 +6,4 @@ gemspec
 
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
+gem "kramdown-parser-gfm"
