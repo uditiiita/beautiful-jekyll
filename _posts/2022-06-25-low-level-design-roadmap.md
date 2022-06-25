@@ -10,7 +10,7 @@ categories: Learning
 * In such kind of an interview, you are given a real-world problem and you are expected to come up with the required design for it. 
 * Since no system in this world is best, so you are expected to come up with the tradeoffs of your design. Like where a design will work well and where not. Its pros and cons.
 * One of the major goals of system design interviews is to see whether candidate is able to identify these tradeoffs and fix cons.
-* More details on system design interviews you can find in this video: https://youtu.be/zkVll74UwGY
+* More details on system design interviews you can find in this video: [https://youtu.be/zkVll74UwGY](https://youtu.be/zkVll74UwGY)
 
 ## Low level design interviews
 In such kind of interviews, we talk about low level design of the system being discussed. It mostly includes discussing the class structure that you will create for the problem. 
