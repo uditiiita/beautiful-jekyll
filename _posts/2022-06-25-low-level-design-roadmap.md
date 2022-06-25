@@ -12,7 +12,7 @@ categories: Learning
 * One of the major goals of system design interviews is to see whether candidate is able to identify these tradeoffs and fix cons.
 * More details on system design interviews you can find in this video: [https://youtu.be/zkVll74UwGY](https://youtu.be/zkVll74UwGY)
 
-## Low level design interviews
+## Low level design interviews:
 In such kind of interviews, we talk about low level design of the system being discussed. It mostly includes discussing the class structure that you will create for the problem. 
 You will have to use some good design patterns and principles in this round to excel at it.  
 Expectations:
@@ -33,7 +33,7 @@ Expectations:
             * Factory
             * [Composition over inheritance](https://www.youtube.com/watch?v=ltENzdsbsdA&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
             * [Command Pattern](https://www.youtube.com/watch?v=G7ErX_0eCkU&list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW)
-* **Practice problems:** Practicing problems and try to come up with trade-offs in the design. Try to see how your designs compare to other people’s designs and try to find pros and cons in each one of them.
+* **Practice problems:** Practicing problems and try to come up with trade-offs in the design. Try to see how your designs compare to other people’s designs and try to find pros and cons in each one of them. 
 
 ## Steps in a low level design interview:
 * Step 1: Start with the model classes first. This about the entities that you have in the system that you are building. Create classes for those entities in the design.
@@ -42,6 +42,5 @@ Expectations:
    * But coming up with the methods for each model class is difficult to start with. 
    * So, its always better to start top down here. 
    * First think about the top level method you need, start implementing it and keep discovering new and new methods that you would need.
-
 
 ## Good Luck for your Interviews :)
