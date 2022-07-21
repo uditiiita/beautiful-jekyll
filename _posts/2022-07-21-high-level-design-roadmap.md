@@ -74,6 +74,8 @@ Once you have good idea of the requirements you are going to solve for, start by
   * Sketch the main components and connections: A great way to do this is to draw shames to represent different software components and data sources and then arrows connecting them to show various services, APIs, databases, queues, caches, etc. depending on the problem you are solving. These arrows will show how your components are interacting with each other.
   * Justify your ideas
 
+![TinyURLDesign](https://raw.githubusercontent.com/anomaly2104/anomaly2104.github.io/master/assets/img/tiny-url.png)
+
 * **Step 3: Design core components**
 Dive into details for each core component. For example, if you were asked to design a url shortening service, discuss:
   * Generating and storing a hash of the full URL
