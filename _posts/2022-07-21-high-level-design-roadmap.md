@@ -4,7 +4,6 @@ title: Roadmap for High Level System Design Interviews Preparation
 tags: [Interviews, High Level Design, HLD, Design, System Design]
 comments: true
 categories: Learning
-published: false
 ---
 
 ## What is a system design interview?
